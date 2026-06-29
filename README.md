@@ -16,6 +16,6 @@ Based in Ankara, I am currently an intern at **Türk Telekom Innovation and R&D 
 
 ## 🛠️ Personal Development Projects (Collaboration Series)
 
-- **[TelekomBillingSystem](./TelekomBillingSystem):** A Java-based customer and tariff management system simulating corporate backend architecture and core OOP principles.
+- **[TelekomSystem](./TelekomSystem):** A Java-based customer and tariff management system simulating corporate backend architecture and core OOP principles.
 - **[Upcoming-Project-2](./Upcoming-Project-2):** Advanced project 2 in development (Coming Soon).
 - **[Upcoming-Project-3](./Upcoming-Project-3):** Advanced project 3 in development (Coming Soon).
